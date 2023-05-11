@@ -1,2 +1,2 @@
-# EstefaniaLeonR.github.io
-Clone de Google usando HTML y CSS | Google Clone using HTML and CSS
+# Clonacion de la interfaz de Google
+Creado con HTML5 Y CSS3 en el bootcamp de Tecnolochicas Pro
