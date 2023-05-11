@@ -2,7 +2,7 @@
 Creado con HTML5 Y CSS3 en el bootcamp de Tecnolochicas Pro
 
 ## INDICE
-* [1. Intro](https://github.com/EstefaniaLeonR/Google-Clone/edit/main/README.md#intro)
+* [1. Intro](https://github.githubassets.com/images/icons/emoji/unicode/1f4d6.png)
 * [2. ¿Que construi?](https://github.com/EstefaniaLeonR/Google-Clone/edit/main/README.md#%EF%B8%8Fque-construi)
 * [3. Objetivos del proyecto](https://github.com/EstefaniaLeonR/Google-Clone/edit/main/README.md#objetivo-del-proyecto)
 * [4. ¡Link al demo!](https://github.com/EstefaniaLeonR/Google-Clone/edit/main/README.md#link-al-demo)
