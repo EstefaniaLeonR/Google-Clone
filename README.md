@@ -3,8 +3,8 @@ Creado con HTML5 Y CSS3 en el bootcamp de Tecnolochicas Pro
 
 ## INDICE
 * [1. Intro](#Intro)
-* [2. ¿Que construi?](# ¿Que construi?)
-* [3. Objetivos del proyecto](# Objetivo del proyecto)
+* [2. ¿Que construi?](https://github.com/EstefaniaLeonR/Google-Clone/edit/main/README.md#que-construi)
+* [3. Objetivos del proyecto](https://github.com/EstefaniaLeonR/Google-Clone/edit/main/README.md#objetivo-del-proyecto)
 * [4. ¡Link al demo!]()
 
 ***
