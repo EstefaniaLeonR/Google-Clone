@@ -2,10 +2,10 @@
 Creado con HTML5 Y CSS3 en el bootcamp de Tecnolochicas Pro
 
 ## INDICE
-* [1. Intro](https://github.com/EstefaniaLeonR/Google-Clone/edit/main/README.md#intro)
-* [2. ¿Que construi?](https://github.com/EstefaniaLeonR/Google-Clone/edit/main/README.md#%EF%B8%8Fque-construi)
-* [3. Objetivos del proyecto](https://github.com/EstefaniaLeonR/Google-Clone/edit/main/README.md#objetivo-del-proyecto)
-* [4. ¡Link al demo!](https://github.com/EstefaniaLeonR/Google-Clone/edit/main/README.md#link-al-demo)
+* [1. Intro](https://www.google.com/search?client=firefox-b-d&q=https%3A%2F%2Fgithub.com%2FEstefaniaLeonR%2FGoogle-Clone%2Fedit%2Fmain%2FREADME.md%23intro)
+* [2. ¿Que construi?](https://www.google.com/search?client=firefox-b-d&q=https%3A%2F%2Fgithub.com%2FEstefaniaLeonR%2FGoogle-Clone%2Fedit%2Fmain%2FREADME.md%23que-construi)
+* [3. Objetivos del proyecto](https://www.google.com/search?client=firefox-b-d&q=https%3A%2F%2Fgithub.com%2FEstefaniaLeonR%2FGoogle-Clone%2Fedit%2Fmain%2FREADME.md%23objetivo-del-proyecto)
+* [4. ¡Link al demo!](https://www.google.com/search?client=firefox-b-d&q=https%3A%2F%2Fgithub.com%2FEstefaniaLeonR%2FGoogle-Clone%2Fedit%2Fmain%2FREADME.md%23link-al-demo)
 
 ***
 
